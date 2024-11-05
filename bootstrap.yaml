@@ -13,7 +13,7 @@ spec:
   interval: 1m
   url: https://github.com/sjb720/gwctl-gitops-test-blank-on-git
   ref:
-    branch: test
+    branch: very-new-branch
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
